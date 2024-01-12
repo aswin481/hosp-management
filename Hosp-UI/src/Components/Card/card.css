@@ -1,0 +1,12 @@
+.card{
+   
+    
+  
+   text-align: center; 
+  
+   display: flex;
+   flex-direction: row;
+   gap: 20px;
+   background-color: inherit;
+   flex-wrap: wrap;
+}

@@ -1,0 +1,11 @@
+.navbar{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.navbar p{
+    cursor: pointer;
+}
+

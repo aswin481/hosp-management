@@ -1,0 +1,16 @@
+
+.table{
+    margin-top: 50px;
+}
+
+.table-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.add-pharmacy-btn{
+    margin-top: 30px;
+    display: flex;
+    justify-content: end;
+}

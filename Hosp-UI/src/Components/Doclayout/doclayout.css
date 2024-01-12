@@ -1,0 +1,79 @@
+.doc-main1{
+    padding: 20px;
+    height: 100vh;
+
+}
+
+.doc-sidebar{
+    background-color: #643843;
+    border-radius: 5px;
+    box-shadow: 0 0 2px gray;
+    margin-right: 20px;
+    
+    min-height: 100%;
+    padding: 10px;
+    width: 300px;
+}
+.doc-content{
+    width: 100%;
+    height: 100%;
+}
+
+.doc-header{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 2px gray;
+    margin-bottom: 20px;
+    min-height: 20px;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.doc-body{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 2px gray;
+   
+    height: 82vh;
+    width: 100%;
+}
+.doc-menu{
+    margin-top: 50px;
+}
+.doc-menu-item{
+    margin-top: 30px;
+
+}
+.doc-menu-item a{
+    color: white;
+    text-decoration: none;
+    font-size:18px ;
+    
+}
+
+.doc-menu-item i{
+    color: white;
+    text-decoration: none;
+    font-size:18px ;
+    margin-right:  20px;
+    margin-left: 10px;
+}
+
+.doc-active-menu-item{
+    color: white;
+    background-color: black;
+}
+.notification{
+    width: 100%;
+    display: flex;
+  justify-content: end;
+  display: inline;
+  margin-right: 20px;
+  gap:20px
+}
+.doc-sidebar-header  h1{
+   font-weight: 900;
+ font-size: 50px;
+ color: white;
+}

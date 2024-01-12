@@ -1,0 +1,20 @@
+.doc-form{
+    border: 2px solid red;
+    width: 30%;
+   
+    padding: 30px 20px;
+    margin: 0px  500px;
+    
+    
+    
+    border: 4px ;
+    box-shadow: 1px 1px 8px 8px  #6e9aeb;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #435585;
+}
+.doc-input {
+    
+  margin: 0 auto;
+}

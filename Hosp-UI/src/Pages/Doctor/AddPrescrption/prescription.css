@@ -1,0 +1,16 @@
+.postprescription{
+    width: 50%;
+    margin:0 auto;
+    margin-top: 100px;
+   
+}
+.area{
+    margin-bottom: -40px;
+}
+
+
+.button{
+    display: flex;
+    justify-content: end;
+    
+}

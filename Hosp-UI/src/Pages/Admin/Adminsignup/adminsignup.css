@@ -1,0 +1,23 @@
+.admin-signup-form{
+    border: 2px solid blue;
+    width: 30%;
+   
+    padding: 30px 20px;
+    padding-right: 30px;
+    margin: 0px  500px;
+    
+    
+    
+    border: 4px ;
+    box-shadow: 1px 1px 8px 8px  #6e9aeb;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #435585;
+}
+.admin-input{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+}
